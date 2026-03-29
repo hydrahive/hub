@@ -1,7 +1,10 @@
-agent_id: xr-cockpit-interaction-specialist
-display_name: Xr Cockpit Interaction Specialist
+id: xr-cockpit-interaction-specialist
+identity: Xr Cockpit Interaction Specialist
 type: specialist
-model: claude-sonnet-4-6
+llm:
+  model: claude-sonnet-4-6
+  max_tokens: 4096
+  temperature: 0.7
 execution_mode: safe
 tools:
   - read_file

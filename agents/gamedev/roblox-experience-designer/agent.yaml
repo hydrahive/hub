@@ -1,7 +1,10 @@
-agent_id: roblox-experience-designer
-display_name: Roblox Experience Designer
+id: roblox-experience-designer
+identity: Roblox Experience Designer
 type: specialist
-model: claude-sonnet-4-6
+llm:
+  model: claude-sonnet-4-6
+  max_tokens: 4096
+  temperature: 0.7
 execution_mode: safe
 tools:
   - read_file

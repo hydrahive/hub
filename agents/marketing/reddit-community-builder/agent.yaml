@@ -1,7 +1,10 @@
-agent_id: reddit-community-builder
-display_name: Reddit Community Builder
+id: reddit-community-builder
+identity: Reddit Community Builder
 type: specialist
-model: claude-sonnet-4-6
+llm:
+  model: claude-sonnet-4-6
+  max_tokens: 4096
+  temperature: 0.7
 execution_mode: safe
 tools:
   - read_file

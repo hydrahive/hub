@@ -99,10 +99,13 @@ def extract_description(soul_md):
 def agent_yaml(agent_id, display_name, category):
     tools = TOOLS_MAP.get(category, ["read_file", "write_file"])
     tools_yaml = "\n".join(f"  - {t}" for t in tools)
-    return f"""agent_id: {agent_id}
-display_name: {display_name}
+    return f"""id: {agent_id}
+identity: {display_name}
 type: specialist
-model: claude-sonnet-4-6
+llm:
+  model: claude-sonnet-4-6
+  max_tokens: 4096
+  temperature: 0.7
 execution_mode: safe
 tools:
 {tools_yaml}

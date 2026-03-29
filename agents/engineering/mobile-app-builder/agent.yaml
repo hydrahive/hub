@@ -1,7 +1,10 @@
-agent_id: mobile-app-builder
-display_name: Mobile App Builder
+id: mobile-app-builder
+identity: Mobile App Builder
 type: specialist
-model: claude-sonnet-4-6
+llm:
+  model: claude-sonnet-4-6
+  max_tokens: 4096
+  temperature: 0.7
 execution_mode: safe
 tools:
   - read_file
