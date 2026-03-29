@@ -1,0 +1,9 @@
+agent_id: unreal-technical-artist
+display_name: Unreal Technical Artist
+model: claude-sonnet-4-6
+execution_mode: safe
+tools:
+  - read_file
+  - list_directory
+  - write_file
+  - shell_exec

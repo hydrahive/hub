@@ -1,0 +1,2547 @@
+{
+  "version": "1",
+  "updated": "2026-03-29T13:49:15Z",
+  "count": 127,
+  "packages": [
+    {
+      "id": "brand-guardian",
+      "type": "agent",
+      "name": "Brand Guardian",
+      "description": "description: Expert brand strategist and guardian specializing in brand identity development, consistency maintenance, and strategic brand positioning",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "design",
+      "tags": [
+        "design",
+        "imported"
+      ],
+      "icon": "🎨",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/design/design-brand-guardian.md",
+      "license": "MIT",
+      "_path": "agents/design/brand-guardian"
+    },
+    {
+      "id": "image-prompt-engineer",
+      "type": "agent",
+      "name": "Image Prompt Engineer",
+      "description": "name: Image Prompt Engineer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "design",
+      "tags": [
+        "design",
+        "imported"
+      ],
+      "icon": "🎨",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/design/design-image-prompt-engineer.md",
+      "license": "MIT",
+      "_path": "agents/design/image-prompt-engineer"
+    },
+    {
+      "id": "inclusive-visuals-specialist",
+      "type": "agent",
+      "name": "Inclusive Visuals Specialist",
+      "description": "name: Inclusive Visuals Specialist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "design",
+      "tags": [
+        "design",
+        "imported"
+      ],
+      "icon": "🎨",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/design/design-inclusive-visuals-specialist.md",
+      "license": "MIT",
+      "_path": "agents/design/inclusive-visuals-specialist"
+    },
+    {
+      "id": "ui-designer",
+      "type": "agent",
+      "name": "Ui Designer",
+      "description": "description: Expert UI designer specializing in visual design systems, component libraries, and pixel-perfect interface creation. Creates beautiful, consistent, accessible user interfaces that enhance",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "design",
+      "tags": [
+        "design",
+        "imported"
+      ],
+      "icon": "🎨",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/design/design-ui-designer.md",
+      "license": "MIT",
+      "_path": "agents/design/ui-designer"
+    },
+    {
+      "id": "ux-architect",
+      "type": "agent",
+      "name": "Ux Architect",
+      "description": "description: Technical architecture and UX specialist who provides developers with solid foundations, CSS systems, and clear implementation guidance",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "design",
+      "tags": [
+        "design",
+        "imported"
+      ],
+      "icon": "🎨",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/design/design-ux-architect.md",
+      "license": "MIT",
+      "_path": "agents/design/ux-architect"
+    },
+    {
+      "id": "ux-researcher",
+      "type": "agent",
+      "name": "Ux Researcher",
+      "description": "description: Expert user experience researcher specializing in user behavior analysis, usability testing, and data-driven design insights. Provides actionable research findings that improve product us",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "design",
+      "tags": [
+        "design",
+        "imported"
+      ],
+      "icon": "🎨",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/design/design-ux-researcher.md",
+      "license": "MIT",
+      "_path": "agents/design/ux-researcher"
+    },
+    {
+      "id": "visual-storyteller",
+      "type": "agent",
+      "name": "Visual Storyteller",
+      "description": "name: Visual Storyteller",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "design",
+      "tags": [
+        "design",
+        "imported"
+      ],
+      "icon": "🎨",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/design/design-visual-storyteller.md",
+      "license": "MIT",
+      "_path": "agents/design/visual-storyteller"
+    },
+    {
+      "id": "whimsy-injector",
+      "type": "agent",
+      "name": "Whimsy Injector",
+      "description": "name: Whimsy Injector",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "design",
+      "tags": [
+        "design",
+        "imported"
+      ],
+      "icon": "🎨",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/design/design-whimsy-injector.md",
+      "license": "MIT",
+      "_path": "agents/design/whimsy-injector"
+    },
+    {
+      "id": "ai-data-remediation-engineer",
+      "type": "agent",
+      "name": "Ai Data Remediation Engineer",
+      "description": "name: AI Data Remediation Engineer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-ai-data-remediation-engineer.md",
+      "license": "MIT",
+      "_path": "agents/engineering/ai-data-remediation-engineer"
+    },
+    {
+      "id": "ai-engineer",
+      "type": "agent",
+      "name": "Ai Engineer",
+      "description": "description: Expert AI/ML engineer specializing in machine learning model development, deployment, and integration into production systems. Focused on building intelligent features, data pipelines, an",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-ai-engineer.md",
+      "license": "MIT",
+      "_path": "agents/engineering/ai-engineer"
+    },
+    {
+      "id": "autonomous-optimization-architect",
+      "type": "agent",
+      "name": "Autonomous Optimization Architect",
+      "description": "name: Autonomous Optimization Architect",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-autonomous-optimization-architect.md",
+      "license": "MIT",
+      "_path": "agents/engineering/autonomous-optimization-architect"
+    },
+    {
+      "id": "backend-architect",
+      "type": "agent",
+      "name": "Backend Architect",
+      "description": "name: Backend Architect",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-backend-architect.md",
+      "license": "MIT",
+      "_path": "agents/engineering/backend-architect"
+    },
+    {
+      "id": "cms-developer",
+      "type": "agent",
+      "name": "Cms Developer",
+      "description": "description: Drupal and WordPress specialist for theme development, custom plugins/modules, content architecture, and code-first CMS implementation",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-cms-developer.md",
+      "license": "MIT",
+      "_path": "agents/engineering/cms-developer"
+    },
+    {
+      "id": "code-reviewer",
+      "type": "agent",
+      "name": "Code Reviewer",
+      "description": "description: Expert code reviewer who provides constructive, actionable feedback focused on correctness, maintainability, security, and performance — not style preferences.",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-code-reviewer.md",
+      "license": "MIT",
+      "_path": "agents/engineering/code-reviewer"
+    },
+    {
+      "id": "data-engineer",
+      "type": "agent",
+      "name": "Data Engineer",
+      "description": "description: Expert data engineer specializing in building reliable data pipelines, lakehouse architectures, and scalable data infrastructure. Masters ETL/ELT, Apache Spark, dbt, streaming systems, an",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-data-engineer.md",
+      "license": "MIT",
+      "_path": "agents/engineering/data-engineer"
+    },
+    {
+      "id": "database-optimizer",
+      "type": "agent",
+      "name": "Database Optimizer",
+      "description": "name: Database Optimizer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-database-optimizer.md",
+      "license": "MIT",
+      "_path": "agents/engineering/database-optimizer"
+    },
+    {
+      "id": "devops-automator",
+      "type": "agent",
+      "name": "Devops Automator",
+      "description": "name: DevOps Automator",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-devops-automator.md",
+      "license": "MIT",
+      "_path": "agents/engineering/devops-automator"
+    },
+    {
+      "id": "email-intelligence-engineer",
+      "type": "agent",
+      "name": "Email Intelligence Engineer",
+      "description": "name: Email Intelligence Engineer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-email-intelligence-engineer.md",
+      "license": "MIT",
+      "_path": "agents/engineering/email-intelligence-engineer"
+    },
+    {
+      "id": "embedded-firmware-engineer",
+      "type": "agent",
+      "name": "Embedded Firmware Engineer",
+      "description": "name: Embedded Firmware Engineer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-embedded-firmware-engineer.md",
+      "license": "MIT",
+      "_path": "agents/engineering/embedded-firmware-engineer"
+    },
+    {
+      "id": "feishu-integration-developer",
+      "type": "agent",
+      "name": "Feishu Integration Developer",
+      "description": "name: Feishu Integration Developer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-feishu-integration-developer.md",
+      "license": "MIT",
+      "_path": "agents/engineering/feishu-integration-developer"
+    },
+    {
+      "id": "filament-optimization-specialist",
+      "type": "agent",
+      "name": "Filament Optimization Specialist",
+      "description": "name: Filament Optimization Specialist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-filament-optimization-specialist.md",
+      "license": "MIT",
+      "_path": "agents/engineering/filament-optimization-specialist"
+    },
+    {
+      "id": "frontend-developer",
+      "type": "agent",
+      "name": "Frontend Developer",
+      "description": "name: Frontend Developer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-frontend-developer.md",
+      "license": "MIT",
+      "_path": "agents/engineering/frontend-developer"
+    },
+    {
+      "id": "git-workflow-master",
+      "type": "agent",
+      "name": "Git Workflow Master",
+      "description": "name: Git Workflow Master",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-git-workflow-master.md",
+      "license": "MIT",
+      "_path": "agents/engineering/git-workflow-master"
+    },
+    {
+      "id": "incident-response-commander",
+      "type": "agent",
+      "name": "Incident Response Commander",
+      "description": "name: Incident Response Commander",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-incident-response-commander.md",
+      "license": "MIT",
+      "_path": "agents/engineering/incident-response-commander"
+    },
+    {
+      "id": "mobile-app-builder",
+      "type": "agent",
+      "name": "Mobile App Builder",
+      "description": "name: Mobile App Builder",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-mobile-app-builder.md",
+      "license": "MIT",
+      "_path": "agents/engineering/mobile-app-builder"
+    },
+    {
+      "id": "rapid-prototyper",
+      "type": "agent",
+      "name": "Rapid Prototyper",
+      "description": "name: Rapid Prototyper",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-rapid-prototyper.md",
+      "license": "MIT",
+      "_path": "agents/engineering/rapid-prototyper"
+    },
+    {
+      "id": "security-engineer",
+      "type": "agent",
+      "name": "Security Engineer",
+      "description": "name: Security Engineer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-security-engineer.md",
+      "license": "MIT",
+      "_path": "agents/engineering/security-engineer"
+    },
+    {
+      "id": "senior-developer",
+      "type": "agent",
+      "name": "Senior Developer",
+      "description": "name: Senior Developer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-senior-developer.md",
+      "license": "MIT",
+      "_path": "agents/engineering/senior-developer"
+    },
+    {
+      "id": "software-architect",
+      "type": "agent",
+      "name": "Software Architect",
+      "description": "name: Software Architect",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-software-architect.md",
+      "license": "MIT",
+      "_path": "agents/engineering/software-architect"
+    },
+    {
+      "id": "solidity-smart-contract-engineer",
+      "type": "agent",
+      "name": "Solidity Smart Contract Engineer",
+      "description": "name: Solidity Smart Contract Engineer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-solidity-smart-contract-engineer.md",
+      "license": "MIT",
+      "_path": "agents/engineering/solidity-smart-contract-engineer"
+    },
+    {
+      "id": "sre",
+      "type": "agent",
+      "name": "Sre",
+      "description": "name: SRE (Site Reliability Engineer)",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-sre.md",
+      "license": "MIT",
+      "_path": "agents/engineering/sre"
+    },
+    {
+      "id": "technical-writer",
+      "type": "agent",
+      "name": "Technical Writer",
+      "description": "name: Technical Writer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-technical-writer.md",
+      "license": "MIT",
+      "_path": "agents/engineering/technical-writer"
+    },
+    {
+      "id": "threat-detection-engineer",
+      "type": "agent",
+      "name": "Threat Detection Engineer",
+      "description": "name: Threat Detection Engineer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-threat-detection-engineer.md",
+      "license": "MIT",
+      "_path": "agents/engineering/threat-detection-engineer"
+    },
+    {
+      "id": "wechat-mini-program-developer",
+      "type": "agent",
+      "name": "Wechat Mini Program Developer",
+      "description": "name: WeChat Mini Program Developer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "engineering",
+      "tags": [
+        "engineering",
+        "imported"
+      ],
+      "icon": "⚙️",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-wechat-mini-program-developer.md",
+      "license": "MIT",
+      "_path": "agents/engineering/wechat-mini-program-developer"
+    },
+    {
+      "id": "blender-addon-engineer",
+      "type": "agent",
+      "name": "Blender Addon Engineer",
+      "description": "name: Blender Add-on Engineer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/blender/blender-addon-engineer.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/blender-addon-engineer"
+    },
+    {
+      "id": "game-audio-engineer",
+      "type": "agent",
+      "name": "Game Audio Engineer",
+      "description": "name: Game Audio Engineer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/game-audio-engineer.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/game-audio-engineer"
+    },
+    {
+      "id": "game-designer",
+      "type": "agent",
+      "name": "Game Designer",
+      "description": "description: Systems and mechanics architect - Masters GDD authorship, player psychology, economy balancing, and gameplay loop design across all engines and genres",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/game-designer.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/game-designer"
+    },
+    {
+      "id": "godot-gameplay-scripter",
+      "type": "agent",
+      "name": "Godot Gameplay Scripter",
+      "description": "name: Godot Gameplay Scripter",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/godot/godot-gameplay-scripter.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/godot-gameplay-scripter"
+    },
+    {
+      "id": "godot-multiplayer-engineer",
+      "type": "agent",
+      "name": "Godot Multiplayer Engineer",
+      "description": "name: Godot Multiplayer Engineer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/godot/godot-multiplayer-engineer.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/godot-multiplayer-engineer"
+    },
+    {
+      "id": "godot-shader-developer",
+      "type": "agent",
+      "name": "Godot Shader Developer",
+      "description": "name: Godot Shader Developer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/godot/godot-shader-developer.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/godot-shader-developer"
+    },
+    {
+      "id": "level-designer",
+      "type": "agent",
+      "name": "Level Designer",
+      "description": "description: Spatial storytelling and flow specialist - Masters layout theory, pacing architecture, encounter design, and environmental narrative across all game engines",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/level-designer.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/level-designer"
+    },
+    {
+      "id": "macos-spatial-metal-engineer",
+      "type": "agent",
+      "name": "Macos Spatial Metal Engineer",
+      "description": "name: macOS Spatial/Metal Engineer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/spatial-computing/macos-spatial-metal-engineer.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/macos-spatial-metal-engineer"
+    },
+    {
+      "id": "narrative-designer",
+      "type": "agent",
+      "name": "Narrative Designer",
+      "description": "name: Narrative Designer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/narrative-designer.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/narrative-designer"
+    },
+    {
+      "id": "roblox-avatar-creator",
+      "type": "agent",
+      "name": "Roblox Avatar Creator",
+      "description": "name: Roblox Avatar Creator",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/roblox-studio/roblox-avatar-creator.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/roblox-avatar-creator"
+    },
+    {
+      "id": "roblox-experience-designer",
+      "type": "agent",
+      "name": "Roblox Experience Designer",
+      "description": "name: Roblox Experience Designer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/roblox-studio/roblox-experience-designer.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/roblox-experience-designer"
+    },
+    {
+      "id": "roblox-systems-scripter",
+      "type": "agent",
+      "name": "Roblox Systems Scripter",
+      "description": "name: Roblox Systems Scripter",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/roblox-studio/roblox-systems-scripter.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/roblox-systems-scripter"
+    },
+    {
+      "id": "technical-artist",
+      "type": "agent",
+      "name": "Technical Artist",
+      "description": "name: Technical Artist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/technical-artist.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/technical-artist"
+    },
+    {
+      "id": "terminal-integration-specialist",
+      "type": "agent",
+      "name": "Terminal Integration Specialist",
+      "description": "name: Terminal Integration Specialist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/spatial-computing/terminal-integration-specialist.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/terminal-integration-specialist"
+    },
+    {
+      "id": "unity-architect",
+      "type": "agent",
+      "name": "Unity Architect",
+      "description": "name: Unity Architect",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/unity/unity-architect.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/unity-architect"
+    },
+    {
+      "id": "unity-editor-tool-developer",
+      "type": "agent",
+      "name": "Unity Editor Tool Developer",
+      "description": "name: Unity Editor Tool Developer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/unity/unity-editor-tool-developer.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/unity-editor-tool-developer"
+    },
+    {
+      "id": "unity-multiplayer-engineer",
+      "type": "agent",
+      "name": "Unity Multiplayer Engineer",
+      "description": "name: Unity Multiplayer Engineer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/unity/unity-multiplayer-engineer.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/unity-multiplayer-engineer"
+    },
+    {
+      "id": "unity-shader-graph-artist",
+      "type": "agent",
+      "name": "Unity Shader Graph Artist",
+      "description": "name: Unity Shader Graph Artist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/unity/unity-shader-graph-artist.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/unity-shader-graph-artist"
+    },
+    {
+      "id": "unreal-multiplayer-architect",
+      "type": "agent",
+      "name": "Unreal Multiplayer Architect",
+      "description": "name: Unreal Multiplayer Architect",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/unreal-engine/unreal-multiplayer-architect.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/unreal-multiplayer-architect"
+    },
+    {
+      "id": "unreal-systems-engineer",
+      "type": "agent",
+      "name": "Unreal Systems Engineer",
+      "description": "name: Unreal Systems Engineer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/unreal-engine/unreal-systems-engineer.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/unreal-systems-engineer"
+    },
+    {
+      "id": "unreal-technical-artist",
+      "type": "agent",
+      "name": "Unreal Technical Artist",
+      "description": "name: Unreal Technical Artist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/unreal-engine/unreal-technical-artist.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/unreal-technical-artist"
+    },
+    {
+      "id": "unreal-world-builder",
+      "type": "agent",
+      "name": "Unreal World Builder",
+      "description": "name: Unreal World Builder",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/unreal-engine/unreal-world-builder.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/unreal-world-builder"
+    },
+    {
+      "id": "visionos-spatial-engineer",
+      "type": "agent",
+      "name": "Visionos Spatial Engineer",
+      "description": "name: visionOS Spatial Engineer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/spatial-computing/visionos-spatial-engineer.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/visionos-spatial-engineer"
+    },
+    {
+      "id": "xr-cockpit-interaction-specialist",
+      "type": "agent",
+      "name": "Xr Cockpit Interaction Specialist",
+      "description": "name: XR Cockpit Interaction Specialist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/spatial-computing/xr-cockpit-interaction-specialist.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/xr-cockpit-interaction-specialist"
+    },
+    {
+      "id": "xr-immersive-developer",
+      "type": "agent",
+      "name": "Xr Immersive Developer",
+      "description": "name: XR Immersive Developer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/spatial-computing/xr-immersive-developer.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/xr-immersive-developer"
+    },
+    {
+      "id": "xr-interface-architect",
+      "type": "agent",
+      "name": "Xr Interface Architect",
+      "description": "name: XR Interface Architect",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "gamedev",
+      "tags": [
+        "gamedev",
+        "imported"
+      ],
+      "icon": "🎮",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/spatial-computing/xr-interface-architect.md",
+      "license": "MIT",
+      "_path": "agents/gamedev/xr-interface-architect"
+    },
+    {
+      "id": "experiment-tracker",
+      "type": "agent",
+      "name": "Experiment Tracker",
+      "description": "name: Experiment Tracker",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "management",
+      "tags": [
+        "management",
+        "imported"
+      ],
+      "icon": "📋",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/project-management/project-management-experiment-tracker.md",
+      "license": "MIT",
+      "_path": "agents/management/experiment-tracker"
+    },
+    {
+      "id": "jira-workflow-steward",
+      "type": "agent",
+      "name": "Jira Workflow Steward",
+      "description": "name: Jira Workflow Steward",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "management",
+      "tags": [
+        "management",
+        "imported"
+      ],
+      "icon": "📋",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/project-management/project-management-jira-workflow-steward.md",
+      "license": "MIT",
+      "_path": "agents/management/jira-workflow-steward"
+    },
+    {
+      "id": "project-manager-senior",
+      "type": "agent",
+      "name": "Project Manager Senior",
+      "description": "name: Senior Project Manager",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "management",
+      "tags": [
+        "management",
+        "imported"
+      ],
+      "icon": "📋",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/project-management/project-manager-senior.md",
+      "license": "MIT",
+      "_path": "agents/management/project-manager-senior"
+    },
+    {
+      "id": "project-shepherd",
+      "type": "agent",
+      "name": "Project Shepherd",
+      "description": "name: Project Shepherd",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "management",
+      "tags": [
+        "management",
+        "imported"
+      ],
+      "icon": "📋",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/project-management/project-management-project-shepherd.md",
+      "license": "MIT",
+      "_path": "agents/management/project-shepherd"
+    },
+    {
+      "id": "studio-operations",
+      "type": "agent",
+      "name": "Studio Operations",
+      "description": "name: Studio Operations",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "management",
+      "tags": [
+        "management",
+        "imported"
+      ],
+      "icon": "📋",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/project-management/project-management-studio-operations.md",
+      "license": "MIT",
+      "_path": "agents/management/studio-operations"
+    },
+    {
+      "id": "studio-producer",
+      "type": "agent",
+      "name": "Studio Producer",
+      "description": "name: Studio Producer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "management",
+      "tags": [
+        "management",
+        "imported"
+      ],
+      "icon": "📋",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/project-management/project-management-studio-producer.md",
+      "license": "MIT",
+      "_path": "agents/management/studio-producer"
+    },
+    {
+      "id": "ai-citation-strategist",
+      "type": "agent",
+      "name": "Ai Citation Strategist",
+      "description": "name: AI Citation Strategist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-ai-citation-strategist.md",
+      "license": "MIT",
+      "_path": "agents/marketing/ai-citation-strategist"
+    },
+    {
+      "id": "app-store-optimizer",
+      "type": "agent",
+      "name": "App Store Optimizer",
+      "description": "name: App Store Optimizer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-app-store-optimizer.md",
+      "license": "MIT",
+      "_path": "agents/marketing/app-store-optimizer"
+    },
+    {
+      "id": "baidu-seo-specialist",
+      "type": "agent",
+      "name": "Baidu Seo Specialist",
+      "description": "name: Baidu SEO Specialist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-baidu-seo-specialist.md",
+      "license": "MIT",
+      "_path": "agents/marketing/baidu-seo-specialist"
+    },
+    {
+      "id": "bilibili-content-strategist",
+      "type": "agent",
+      "name": "Bilibili Content Strategist",
+      "description": "name: Bilibili Content Strategist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-bilibili-content-strategist.md",
+      "license": "MIT",
+      "_path": "agents/marketing/bilibili-content-strategist"
+    },
+    {
+      "id": "book-co-author",
+      "type": "agent",
+      "name": "Book Co Author",
+      "description": "description: Strategic thought-leadership book collaborator for founders, experts, and operators turning voice notes, fragments, and positioning into structured first-person chapters.",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-book-co-author.md",
+      "license": "MIT",
+      "_path": "agents/marketing/book-co-author"
+    },
+    {
+      "id": "carousel-growth-engine",
+      "type": "agent",
+      "name": "Carousel Growth Engine",
+      "description": "name: Carousel Growth Engine",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-carousel-growth-engine.md",
+      "license": "MIT",
+      "_path": "agents/marketing/carousel-growth-engine"
+    },
+    {
+      "id": "china-ecommerce-operator",
+      "type": "agent",
+      "name": "China Ecommerce Operator",
+      "description": "name: China E-Commerce Operator",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-china-ecommerce-operator.md",
+      "license": "MIT",
+      "_path": "agents/marketing/china-ecommerce-operator"
+    },
+    {
+      "id": "china-market-localization-strategist",
+      "type": "agent",
+      "name": "China Market Localization Strategist",
+      "description": "name: China Market Localization Strategist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-china-market-localization-strategist.md",
+      "license": "MIT",
+      "_path": "agents/marketing/china-market-localization-strategist"
+    },
+    {
+      "id": "content-creator",
+      "type": "agent",
+      "name": "Content Creator",
+      "description": "name: Content Creator",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-content-creator.md",
+      "license": "MIT",
+      "_path": "agents/marketing/content-creator"
+    },
+    {
+      "id": "cross-border-ecommerce",
+      "type": "agent",
+      "name": "Cross Border Ecommerce",
+      "description": "name: Cross-Border E-Commerce Specialist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-cross-border-ecommerce.md",
+      "license": "MIT",
+      "_path": "agents/marketing/cross-border-ecommerce"
+    },
+    {
+      "id": "douyin-strategist",
+      "type": "agent",
+      "name": "Douyin Strategist",
+      "description": "name: Douyin Strategist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-douyin-strategist.md",
+      "license": "MIT",
+      "_path": "agents/marketing/douyin-strategist"
+    },
+    {
+      "id": "growth-hacker",
+      "type": "agent",
+      "name": "Growth Hacker",
+      "description": "description: Expert growth strategist specializing in rapid user acquisition through data-driven experimentation. Develops viral loops, optimizes conversion funnels, and finds scalable growth channels",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-growth-hacker.md",
+      "license": "MIT",
+      "_path": "agents/marketing/growth-hacker"
+    },
+    {
+      "id": "instagram-curator",
+      "type": "agent",
+      "name": "Instagram Curator",
+      "description": "name: Instagram Curator",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-instagram-curator.md",
+      "license": "MIT",
+      "_path": "agents/marketing/instagram-curator"
+    },
+    {
+      "id": "kuaishou-strategist",
+      "type": "agent",
+      "name": "Kuaishou Strategist",
+      "description": "name: Kuaishou Strategist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-kuaishou-strategist.md",
+      "license": "MIT",
+      "_path": "agents/marketing/kuaishou-strategist"
+    },
+    {
+      "id": "linkedin-content-creator",
+      "type": "agent",
+      "name": "Linkedin Content Creator",
+      "description": "name: LinkedIn Content Creator",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-linkedin-content-creator.md",
+      "license": "MIT",
+      "_path": "agents/marketing/linkedin-content-creator"
+    },
+    {
+      "id": "livestream-commerce-coach",
+      "type": "agent",
+      "name": "Livestream Commerce Coach",
+      "description": "name: Livestream Commerce Coach",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-livestream-commerce-coach.md",
+      "license": "MIT",
+      "_path": "agents/marketing/livestream-commerce-coach"
+    },
+    {
+      "id": "podcast-strategist",
+      "type": "agent",
+      "name": "Podcast Strategist",
+      "description": "name: Podcast Strategist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-podcast-strategist.md",
+      "license": "MIT",
+      "_path": "agents/marketing/podcast-strategist"
+    },
+    {
+      "id": "private-domain-operator",
+      "type": "agent",
+      "name": "Private Domain Operator",
+      "description": "name: Private Domain Operator",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-private-domain-operator.md",
+      "license": "MIT",
+      "_path": "agents/marketing/private-domain-operator"
+    },
+    {
+      "id": "reddit-community-builder",
+      "type": "agent",
+      "name": "Reddit Community Builder",
+      "description": "name: Reddit Community Builder",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-reddit-community-builder.md",
+      "license": "MIT",
+      "_path": "agents/marketing/reddit-community-builder"
+    },
+    {
+      "id": "seo-specialist",
+      "type": "agent",
+      "name": "Seo Specialist",
+      "description": "description: Expert search engine optimization strategist specializing in technical SEO, content optimization, link authority building, and organic search growth. Drives sustainable traffic through da",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-seo-specialist.md",
+      "license": "MIT",
+      "_path": "agents/marketing/seo-specialist"
+    },
+    {
+      "id": "short-video-editing-coach",
+      "type": "agent",
+      "name": "Short Video Editing Coach",
+      "description": "name: Short-Video Editing Coach",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-short-video-editing-coach.md",
+      "license": "MIT",
+      "_path": "agents/marketing/short-video-editing-coach"
+    },
+    {
+      "id": "social-media-strategist",
+      "type": "agent",
+      "name": "Social Media Strategist",
+      "description": "name: Social Media Strategist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-social-media-strategist.md",
+      "license": "MIT",
+      "_path": "agents/marketing/social-media-strategist"
+    },
+    {
+      "id": "tiktok-strategist",
+      "type": "agent",
+      "name": "Tiktok Strategist",
+      "description": "name: TikTok Strategist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-tiktok-strategist.md",
+      "license": "MIT",
+      "_path": "agents/marketing/tiktok-strategist"
+    },
+    {
+      "id": "twitter-engager",
+      "type": "agent",
+      "name": "Twitter Engager",
+      "description": "name: Twitter Engager",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-twitter-engager.md",
+      "license": "MIT",
+      "_path": "agents/marketing/twitter-engager"
+    },
+    {
+      "id": "video-optimization-specialist",
+      "type": "agent",
+      "name": "Video Optimization Specialist",
+      "description": "name: Video Optimization Specialist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-video-optimization-specialist.md",
+      "license": "MIT",
+      "_path": "agents/marketing/video-optimization-specialist"
+    },
+    {
+      "id": "wechat-official-account",
+      "type": "agent",
+      "name": "Wechat Official Account",
+      "description": "name: WeChat Official Account Manager",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-wechat-official-account.md",
+      "license": "MIT",
+      "_path": "agents/marketing/wechat-official-account"
+    },
+    {
+      "id": "weibo-strategist",
+      "type": "agent",
+      "name": "Weibo Strategist",
+      "description": "name: Weibo Strategist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-weibo-strategist.md",
+      "license": "MIT",
+      "_path": "agents/marketing/weibo-strategist"
+    },
+    {
+      "id": "xiaohongshu-specialist",
+      "type": "agent",
+      "name": "Xiaohongshu Specialist",
+      "description": "name: Xiaohongshu Specialist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-xiaohongshu-specialist.md",
+      "license": "MIT",
+      "_path": "agents/marketing/xiaohongshu-specialist"
+    },
+    {
+      "id": "zhihu-strategist",
+      "type": "agent",
+      "name": "Zhihu Strategist",
+      "description": "name: Zhihu Strategist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "imported"
+      ],
+      "icon": "📢",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-zhihu-strategist.md",
+      "license": "MIT",
+      "_path": "agents/marketing/zhihu-strategist"
+    },
+    {
+      "id": "anthropologist",
+      "type": "agent",
+      "name": "Anthropologist",
+      "description": "description: Expert in cultural systems, rituals, kinship, belief systems, and ethnographic method — builds culturally coherent societies that feel lived-in rather than invented",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "personal",
+      "tags": [
+        "personal",
+        "imported"
+      ],
+      "icon": "🧠",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/academic/academic-anthropologist.md",
+      "license": "MIT",
+      "_path": "agents/personal/anthropologist"
+    },
+    {
+      "id": "geographer",
+      "type": "agent",
+      "name": "Geographer",
+      "description": "description: Expert in physical and human geography, climate systems, cartography, and spatial analysis — builds geographically coherent worlds where terrain, climate, resources, and settlement patter",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "personal",
+      "tags": [
+        "personal",
+        "imported"
+      ],
+      "icon": "🧠",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/academic/academic-geographer.md",
+      "license": "MIT",
+      "_path": "agents/personal/geographer"
+    },
+    {
+      "id": "historian",
+      "type": "agent",
+      "name": "Historian",
+      "description": "description: Expert in historical analysis, periodization, material culture, and historiography — validates historical coherence and enriches settings with authentic period detail grounded in primary ",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "personal",
+      "tags": [
+        "personal",
+        "imported"
+      ],
+      "icon": "🧠",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/academic/academic-historian.md",
+      "license": "MIT",
+      "_path": "agents/personal/historian"
+    },
+    {
+      "id": "narratologist",
+      "type": "agent",
+      "name": "Narratologist",
+      "description": "description: Expert in narrative theory, story structure, character arcs, and literary analysis — grounds advice in established frameworks from Propp to Campbell to modern narratology",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "personal",
+      "tags": [
+        "personal",
+        "imported"
+      ],
+      "icon": "🧠",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/academic/academic-narratologist.md",
+      "license": "MIT",
+      "_path": "agents/personal/narratologist"
+    },
+    {
+      "id": "psychologist",
+      "type": "agent",
+      "name": "Psychologist",
+      "description": "description: Expert in human behavior, personality theory, motivation, and cognitive patterns — builds psychologically credible characters and interactions grounded in clinical and research frameworks",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "personal",
+      "tags": [
+        "personal",
+        "imported"
+      ],
+      "icon": "🧠",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/academic/academic-psychologist.md",
+      "license": "MIT",
+      "_path": "agents/personal/psychologist"
+    },
+    {
+      "id": "behavioral-nudge-engine",
+      "type": "agent",
+      "name": "Behavioral Nudge Engine",
+      "description": "name: Behavioral Nudge Engine",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "product",
+      "tags": [
+        "product",
+        "imported"
+      ],
+      "icon": "📦",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/product/product-behavioral-nudge-engine.md",
+      "license": "MIT",
+      "_path": "agents/product/behavioral-nudge-engine"
+    },
+    {
+      "id": "feedback-synthesizer",
+      "type": "agent",
+      "name": "Feedback Synthesizer",
+      "description": "name: Feedback Synthesizer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "product",
+      "tags": [
+        "product",
+        "imported"
+      ],
+      "icon": "📦",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/product/product-feedback-synthesizer.md",
+      "license": "MIT",
+      "_path": "agents/product/feedback-synthesizer"
+    },
+    {
+      "id": "manager",
+      "type": "agent",
+      "name": "Manager",
+      "description": "name: Product Manager",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "product",
+      "tags": [
+        "product",
+        "imported"
+      ],
+      "icon": "📦",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/product/product-manager.md",
+      "license": "MIT",
+      "_path": "agents/product/manager"
+    },
+    {
+      "id": "sprint-prioritizer",
+      "type": "agent",
+      "name": "Sprint Prioritizer",
+      "description": "name: Sprint Prioritizer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "product",
+      "tags": [
+        "product",
+        "imported"
+      ],
+      "icon": "📦",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/product/product-sprint-prioritizer.md",
+      "license": "MIT",
+      "_path": "agents/product/sprint-prioritizer"
+    },
+    {
+      "id": "trend-researcher",
+      "type": "agent",
+      "name": "Trend Researcher",
+      "description": "name: Trend Researcher",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "product",
+      "tags": [
+        "product",
+        "imported"
+      ],
+      "icon": "📦",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/product/product-trend-researcher.md",
+      "license": "MIT",
+      "_path": "agents/product/trend-researcher"
+    },
+    {
+      "id": "account-strategist",
+      "type": "agent",
+      "name": "Account Strategist",
+      "description": "name: Account Strategist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "sales",
+      "tags": [
+        "sales",
+        "imported"
+      ],
+      "icon": "💼",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-account-strategist.md",
+      "license": "MIT",
+      "_path": "agents/sales/account-strategist"
+    },
+    {
+      "id": "coach",
+      "type": "agent",
+      "name": "Coach",
+      "description": "description: Expert sales coaching specialist focused on rep development, pipeline review facilitation, call coaching, deal strategy, and forecast accuracy. Makes every rep and every deal better throu",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "sales",
+      "tags": [
+        "sales",
+        "imported"
+      ],
+      "icon": "💼",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-coach.md",
+      "license": "MIT",
+      "_path": "agents/sales/coach"
+    },
+    {
+      "id": "deal-strategist",
+      "type": "agent",
+      "name": "Deal Strategist",
+      "description": "name: Deal Strategist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "sales",
+      "tags": [
+        "sales",
+        "imported"
+      ],
+      "icon": "💼",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-deal-strategist.md",
+      "license": "MIT",
+      "_path": "agents/sales/deal-strategist"
+    },
+    {
+      "id": "discovery-coach",
+      "type": "agent",
+      "name": "Discovery Coach",
+      "description": "name: Discovery Coach",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "sales",
+      "tags": [
+        "sales",
+        "imported"
+      ],
+      "icon": "💼",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-discovery-coach.md",
+      "license": "MIT",
+      "_path": "agents/sales/discovery-coach"
+    },
+    {
+      "id": "engineer",
+      "type": "agent",
+      "name": "Engineer",
+      "description": "description: Senior pre-sales engineer specializing in technical discovery, demo engineering, POC scoping, competitive battlecards, and bridging product capabilities to business outcomes. Wins the tec",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "sales",
+      "tags": [
+        "sales",
+        "imported"
+      ],
+      "icon": "💼",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-engineer.md",
+      "license": "MIT",
+      "_path": "agents/sales/engineer"
+    },
+    {
+      "id": "outbound-strategist",
+      "type": "agent",
+      "name": "Outbound Strategist",
+      "description": "name: Outbound Strategist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "sales",
+      "tags": [
+        "sales",
+        "imported"
+      ],
+      "icon": "💼",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-outbound-strategist.md",
+      "license": "MIT",
+      "_path": "agents/sales/outbound-strategist"
+    },
+    {
+      "id": "pipeline-analyst",
+      "type": "agent",
+      "name": "Pipeline Analyst",
+      "description": "name: Pipeline Analyst",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "sales",
+      "tags": [
+        "sales",
+        "imported"
+      ],
+      "icon": "💼",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-pipeline-analyst.md",
+      "license": "MIT",
+      "_path": "agents/sales/pipeline-analyst"
+    },
+    {
+      "id": "proposal-strategist",
+      "type": "agent",
+      "name": "Proposal Strategist",
+      "description": "name: Proposal Strategist",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "sales",
+      "tags": [
+        "sales",
+        "imported"
+      ],
+      "icon": "💼",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-proposal-strategist.md",
+      "license": "MIT",
+      "_path": "agents/sales/proposal-strategist"
+    },
+    {
+      "id": "analytics-reporter",
+      "type": "agent",
+      "name": "Analytics Reporter",
+      "description": "name: Analytics Reporter",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "support",
+      "tags": [
+        "support",
+        "imported"
+      ],
+      "icon": "🎧",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/support/support-analytics-reporter.md",
+      "license": "MIT",
+      "_path": "agents/support/analytics-reporter"
+    },
+    {
+      "id": "executive-summary-generator",
+      "type": "agent",
+      "name": "Executive Summary Generator",
+      "description": "name: Executive Summary Generator",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "support",
+      "tags": [
+        "support",
+        "imported"
+      ],
+      "icon": "🎧",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/support/support-executive-summary-generator.md",
+      "license": "MIT",
+      "_path": "agents/support/executive-summary-generator"
+    },
+    {
+      "id": "finance-tracker",
+      "type": "agent",
+      "name": "Finance Tracker",
+      "description": "name: Finance Tracker",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "support",
+      "tags": [
+        "support",
+        "imported"
+      ],
+      "icon": "🎧",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/support/support-finance-tracker.md",
+      "license": "MIT",
+      "_path": "agents/support/finance-tracker"
+    },
+    {
+      "id": "infrastructure-maintainer",
+      "type": "agent",
+      "name": "Infrastructure Maintainer",
+      "description": "name: Infrastructure Maintainer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "support",
+      "tags": [
+        "support",
+        "imported"
+      ],
+      "icon": "🎧",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/support/support-infrastructure-maintainer.md",
+      "license": "MIT",
+      "_path": "agents/support/infrastructure-maintainer"
+    },
+    {
+      "id": "legal-compliance-checker",
+      "type": "agent",
+      "name": "Legal Compliance Checker",
+      "description": "name: Legal Compliance Checker",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "support",
+      "tags": [
+        "support",
+        "imported"
+      ],
+      "icon": "🎧",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/support/support-legal-compliance-checker.md",
+      "license": "MIT",
+      "_path": "agents/support/legal-compliance-checker"
+    },
+    {
+      "id": "support-responder",
+      "type": "agent",
+      "name": "Support Responder",
+      "description": "name: Support Responder",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "support",
+      "tags": [
+        "support",
+        "imported"
+      ],
+      "icon": "🎧",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/support/support-support-responder.md",
+      "license": "MIT",
+      "_path": "agents/support/support-responder"
+    },
+    {
+      "id": "accessibility-auditor",
+      "type": "agent",
+      "name": "Accessibility Auditor",
+      "description": "name: Accessibility Auditor",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "testing",
+      "tags": [
+        "testing",
+        "imported"
+      ],
+      "icon": "🧪",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-accessibility-auditor.md",
+      "license": "MIT",
+      "_path": "agents/testing/accessibility-auditor"
+    },
+    {
+      "id": "api-tester",
+      "type": "agent",
+      "name": "Api Tester",
+      "description": "description: Expert API testing specialist focused on comprehensive API validation, performance testing, and quality assurance across all systems and third-party integrations",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "testing",
+      "tags": [
+        "testing",
+        "imported"
+      ],
+      "icon": "🧪",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-api-tester.md",
+      "license": "MIT",
+      "_path": "agents/testing/api-tester"
+    },
+    {
+      "id": "evidence-collector",
+      "type": "agent",
+      "name": "Evidence Collector",
+      "description": "name: Evidence Collector",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "testing",
+      "tags": [
+        "testing",
+        "imported"
+      ],
+      "icon": "🧪",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-evidence-collector.md",
+      "license": "MIT",
+      "_path": "agents/testing/evidence-collector"
+    },
+    {
+      "id": "performance-benchmarker",
+      "type": "agent",
+      "name": "Performance Benchmarker",
+      "description": "name: Performance Benchmarker",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "testing",
+      "tags": [
+        "testing",
+        "imported"
+      ],
+      "icon": "🧪",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-performance-benchmarker.md",
+      "license": "MIT",
+      "_path": "agents/testing/performance-benchmarker"
+    },
+    {
+      "id": "reality-checker",
+      "type": "agent",
+      "name": "Reality Checker",
+      "description": "name: Reality Checker",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "testing",
+      "tags": [
+        "testing",
+        "imported"
+      ],
+      "icon": "🧪",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-reality-checker.md",
+      "license": "MIT",
+      "_path": "agents/testing/reality-checker"
+    },
+    {
+      "id": "test-results-analyzer",
+      "type": "agent",
+      "name": "Test Results Analyzer",
+      "description": "name: Test Results Analyzer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "testing",
+      "tags": [
+        "testing",
+        "imported"
+      ],
+      "icon": "🧪",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-test-results-analyzer.md",
+      "license": "MIT",
+      "_path": "agents/testing/test-results-analyzer"
+    },
+    {
+      "id": "tool-evaluator",
+      "type": "agent",
+      "name": "Tool Evaluator",
+      "description": "description: Expert technology assessment specialist focused on evaluating, testing, and recommending tools, software, and platforms for business use and productivity optimization",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "testing",
+      "tags": [
+        "testing",
+        "imported"
+      ],
+      "icon": "🧪",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-tool-evaluator.md",
+      "license": "MIT",
+      "_path": "agents/testing/tool-evaluator"
+    },
+    {
+      "id": "workflow-optimizer",
+      "type": "agent",
+      "name": "Workflow Optimizer",
+      "description": "name: Workflow Optimizer",
+      "author": "agency-agents",
+      "author_url": "https://github.com/msitarzewski/agency-agents",
+      "category": "testing",
+      "tags": [
+        "testing",
+        "imported"
+      ],
+      "icon": "🧪",
+      "version": "1.0.0",
+      "min_hydrahive_version": "1.0.0",
+      "source": "agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-workflow-optimizer.md",
+      "license": "MIT",
+      "_path": "agents/testing/workflow-optimizer"
+    }
+  ]
+}

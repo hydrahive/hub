@@ -1,0 +1,19 @@
+{
+  "id": "podcast-strategist",
+  "type": "agent",
+  "name": "Podcast Strategist",
+  "description": "name: Podcast Strategist",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "imported"
+  ],
+  "icon": "📢",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-podcast-strategist.md",
+  "license": "MIT"
+}

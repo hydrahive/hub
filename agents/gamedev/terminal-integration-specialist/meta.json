@@ -1,0 +1,19 @@
+{
+  "id": "terminal-integration-specialist",
+  "type": "agent",
+  "name": "Terminal Integration Specialist",
+  "description": "name: Terminal Integration Specialist",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "gamedev",
+  "tags": [
+    "gamedev",
+    "imported"
+  ],
+  "icon": "🎮",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/spatial-computing/terminal-integration-specialist.md",
+  "license": "MIT"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "data-engineer",
+  "type": "agent",
+  "name": "Data Engineer",
+  "description": "description: Expert data engineer specializing in building reliable data pipelines, lakehouse architectures, and scalable data infrastructure. Masters ETL/ELT, Apache Spark, dbt, streaming systems, an",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "imported"
+  ],
+  "icon": "⚙️",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-data-engineer.md",
+  "license": "MIT"
+}

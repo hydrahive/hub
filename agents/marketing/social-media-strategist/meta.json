@@ -1,0 +1,19 @@
+{
+  "id": "social-media-strategist",
+  "type": "agent",
+  "name": "Social Media Strategist",
+  "description": "name: Social Media Strategist",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "imported"
+  ],
+  "icon": "📢",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-social-media-strategist.md",
+  "license": "MIT"
+}

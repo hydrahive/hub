@@ -1,0 +1,19 @@
+{
+  "id": "project-shepherd",
+  "type": "agent",
+  "name": "Project Shepherd",
+  "description": "name: Project Shepherd",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "management",
+  "tags": [
+    "management",
+    "imported"
+  ],
+  "icon": "📋",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/project-management/project-management-project-shepherd.md",
+  "license": "MIT"
+}

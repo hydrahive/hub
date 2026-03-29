@@ -1,0 +1,19 @@
+{
+  "id": "anthropologist",
+  "type": "agent",
+  "name": "Anthropologist",
+  "description": "description: Expert in cultural systems, rituals, kinship, belief systems, and ethnographic method — builds culturally coherent societies that feel lived-in rather than invented",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "personal",
+  "tags": [
+    "personal",
+    "imported"
+  ],
+  "icon": "🧠",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/academic/academic-anthropologist.md",
+  "license": "MIT"
+}

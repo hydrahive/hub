@@ -1,0 +1,19 @@
+{
+  "id": "geographer",
+  "type": "agent",
+  "name": "Geographer",
+  "description": "description: Expert in physical and human geography, climate systems, cartography, and spatial analysis — builds geographically coherent worlds where terrain, climate, resources, and settlement patter",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "personal",
+  "tags": [
+    "personal",
+    "imported"
+  ],
+  "icon": "🧠",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/academic/academic-geographer.md",
+  "license": "MIT"
+}

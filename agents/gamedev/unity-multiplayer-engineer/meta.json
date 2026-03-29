@@ -1,0 +1,19 @@
+{
+  "id": "unity-multiplayer-engineer",
+  "type": "agent",
+  "name": "Unity Multiplayer Engineer",
+  "description": "name: Unity Multiplayer Engineer",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "gamedev",
+  "tags": [
+    "gamedev",
+    "imported"
+  ],
+  "icon": "🎮",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/unity/unity-multiplayer-engineer.md",
+  "license": "MIT"
+}

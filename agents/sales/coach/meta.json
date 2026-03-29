@@ -1,0 +1,19 @@
+{
+  "id": "coach",
+  "type": "agent",
+  "name": "Coach",
+  "description": "description: Expert sales coaching specialist focused on rep development, pipeline review facilitation, call coaching, deal strategy, and forecast accuracy. Makes every rep and every deal better throu",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "sales",
+  "tags": [
+    "sales",
+    "imported"
+  ],
+  "icon": "💼",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-coach.md",
+  "license": "MIT"
+}

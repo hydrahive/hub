@@ -1,0 +1,7 @@
+agent_id: studio-producer
+display_name: Studio Producer
+model: claude-sonnet-4-6
+execution_mode: safe
+tools:
+  - read_file
+  - write_file

@@ -1,0 +1,19 @@
+{
+  "id": "tool-evaluator",
+  "type": "agent",
+  "name": "Tool Evaluator",
+  "description": "description: Expert technology assessment specialist focused on evaluating, testing, and recommending tools, software, and platforms for business use and productivity optimization",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "testing",
+  "tags": [
+    "testing",
+    "imported"
+  ],
+  "icon": "🧪",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-tool-evaluator.md",
+  "license": "MIT"
+}

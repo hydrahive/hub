@@ -1,0 +1,19 @@
+{
+  "id": "ui-designer",
+  "type": "agent",
+  "name": "Ui Designer",
+  "description": "description: Expert UI designer specializing in visual design systems, component libraries, and pixel-perfect interface creation. Creates beautiful, consistent, accessible user interfaces that enhance",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "design",
+  "tags": [
+    "design",
+    "imported"
+  ],
+  "icon": "🎨",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/design/design-ui-designer.md",
+  "license": "MIT"
+}

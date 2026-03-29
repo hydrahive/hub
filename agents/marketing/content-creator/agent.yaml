@@ -1,0 +1,8 @@
+agent_id: content-creator
+display_name: Content Creator
+model: claude-sonnet-4-6
+execution_mode: safe
+tools:
+  - read_file
+  - write_file
+  - web_search

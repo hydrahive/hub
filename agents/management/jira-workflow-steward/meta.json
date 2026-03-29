@@ -1,0 +1,19 @@
+{
+  "id": "jira-workflow-steward",
+  "type": "agent",
+  "name": "Jira Workflow Steward",
+  "description": "name: Jira Workflow Steward",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "management",
+  "tags": [
+    "management",
+    "imported"
+  ],
+  "icon": "📋",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/project-management/project-management-jira-workflow-steward.md",
+  "license": "MIT"
+}

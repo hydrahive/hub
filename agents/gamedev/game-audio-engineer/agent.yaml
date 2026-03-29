@@ -1,0 +1,9 @@
+agent_id: game-audio-engineer
+display_name: Game Audio Engineer
+model: claude-sonnet-4-6
+execution_mode: safe
+tools:
+  - read_file
+  - list_directory
+  - write_file
+  - shell_exec

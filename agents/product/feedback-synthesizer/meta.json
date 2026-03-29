@@ -1,0 +1,19 @@
+{
+  "id": "feedback-synthesizer",
+  "type": "agent",
+  "name": "Feedback Synthesizer",
+  "description": "name: Feedback Synthesizer",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "product",
+  "tags": [
+    "product",
+    "imported"
+  ],
+  "icon": "📦",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/product/product-feedback-synthesizer.md",
+  "license": "MIT"
+}

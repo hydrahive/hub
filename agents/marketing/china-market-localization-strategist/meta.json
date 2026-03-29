@@ -1,0 +1,19 @@
+{
+  "id": "china-market-localization-strategist",
+  "type": "agent",
+  "name": "China Market Localization Strategist",
+  "description": "name: China Market Localization Strategist",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "imported"
+  ],
+  "icon": "📢",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-china-market-localization-strategist.md",
+  "license": "MIT"
+}

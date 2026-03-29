@@ -1,0 +1,19 @@
+{
+  "id": "historian",
+  "type": "agent",
+  "name": "Historian",
+  "description": "description: Expert in historical analysis, periodization, material culture, and historiography — validates historical coherence and enriches settings with authentic period detail grounded in primary ",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "personal",
+  "tags": [
+    "personal",
+    "imported"
+  ],
+  "icon": "🧠",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/academic/academic-historian.md",
+  "license": "MIT"
+}

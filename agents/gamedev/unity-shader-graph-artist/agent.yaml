@@ -1,0 +1,9 @@
+agent_id: unity-shader-graph-artist
+display_name: Unity Shader Graph Artist
+model: claude-sonnet-4-6
+execution_mode: safe
+tools:
+  - read_file
+  - list_directory
+  - write_file
+  - shell_exec

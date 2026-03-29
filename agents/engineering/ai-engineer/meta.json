@@ -1,0 +1,19 @@
+{
+  "id": "ai-engineer",
+  "type": "agent",
+  "name": "Ai Engineer",
+  "description": "description: Expert AI/ML engineer specializing in machine learning model development, deployment, and integration into production systems. Focused on building intelligent features, data pipelines, an",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "imported"
+  ],
+  "icon": "⚙️",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-ai-engineer.md",
+  "license": "MIT"
+}

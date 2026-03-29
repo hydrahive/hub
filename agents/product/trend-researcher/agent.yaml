@@ -1,0 +1,7 @@
+agent_id: trend-researcher
+display_name: Trend Researcher
+model: claude-sonnet-4-6
+execution_mode: safe
+tools:
+  - read_file
+  - write_file

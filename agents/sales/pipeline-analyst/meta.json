@@ -1,0 +1,19 @@
+{
+  "id": "pipeline-analyst",
+  "type": "agent",
+  "name": "Pipeline Analyst",
+  "description": "name: Pipeline Analyst",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "sales",
+  "tags": [
+    "sales",
+    "imported"
+  ],
+  "icon": "💼",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-pipeline-analyst.md",
+  "license": "MIT"
+}

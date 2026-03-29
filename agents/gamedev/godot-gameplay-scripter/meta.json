@@ -1,0 +1,19 @@
+{
+  "id": "godot-gameplay-scripter",
+  "type": "agent",
+  "name": "Godot Gameplay Scripter",
+  "description": "name: Godot Gameplay Scripter",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "gamedev",
+  "tags": [
+    "gamedev",
+    "imported"
+  ],
+  "icon": "🎮",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/game-development/godot/godot-gameplay-scripter.md",
+  "license": "MIT"
+}

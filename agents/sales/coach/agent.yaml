@@ -1,0 +1,7 @@
+agent_id: coach
+display_name: Coach
+model: claude-sonnet-4-6
+execution_mode: safe
+tools:
+  - read_file
+  - write_file

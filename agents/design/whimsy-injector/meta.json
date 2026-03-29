@@ -1,0 +1,19 @@
+{
+  "id": "whimsy-injector",
+  "type": "agent",
+  "name": "Whimsy Injector",
+  "description": "name: Whimsy Injector",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "design",
+  "tags": [
+    "design",
+    "imported"
+  ],
+  "icon": "🎨",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/design/design-whimsy-injector.md",
+  "license": "MIT"
+}

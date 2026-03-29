@@ -1,0 +1,19 @@
+{
+  "id": "reddit-community-builder",
+  "type": "agent",
+  "name": "Reddit Community Builder",
+  "description": "name: Reddit Community Builder",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "imported"
+  ],
+  "icon": "📢",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-reddit-community-builder.md",
+  "license": "MIT"
+}

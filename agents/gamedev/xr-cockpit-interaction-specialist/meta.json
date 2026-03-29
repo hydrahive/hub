@@ -1,0 +1,19 @@
+{
+  "id": "xr-cockpit-interaction-specialist",
+  "type": "agent",
+  "name": "Xr Cockpit Interaction Specialist",
+  "description": "name: XR Cockpit Interaction Specialist",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "gamedev",
+  "tags": [
+    "gamedev",
+    "imported"
+  ],
+  "icon": "🎮",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/spatial-computing/xr-cockpit-interaction-specialist.md",
+  "license": "MIT"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "feishu-integration-developer",
+  "type": "agent",
+  "name": "Feishu Integration Developer",
+  "description": "name: Feishu Integration Developer",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "imported"
+  ],
+  "icon": "⚙️",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-feishu-integration-developer.md",
+  "license": "MIT"
+}

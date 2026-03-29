@@ -1,0 +1,9 @@
+agent_id: git-workflow-master
+display_name: Git Workflow Master
+model: claude-sonnet-4-6
+execution_mode: safe
+tools:
+  - read_file
+  - list_directory
+  - shell_exec
+  - write_file

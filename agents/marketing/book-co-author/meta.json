@@ -1,0 +1,19 @@
+{
+  "id": "book-co-author",
+  "type": "agent",
+  "name": "Book Co Author",
+  "description": "description: Strategic thought-leadership book collaborator for founders, experts, and operators turning voice notes, fragments, and positioning into structured first-person chapters.",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "imported"
+  ],
+  "icon": "📢",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-book-co-author.md",
+  "license": "MIT"
+}

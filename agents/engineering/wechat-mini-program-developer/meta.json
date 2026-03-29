@@ -1,0 +1,19 @@
+{
+  "id": "wechat-mini-program-developer",
+  "type": "agent",
+  "name": "Wechat Mini Program Developer",
+  "description": "name: WeChat Mini Program Developer",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "imported"
+  ],
+  "icon": "⚙️",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-wechat-mini-program-developer.md",
+  "license": "MIT"
+}

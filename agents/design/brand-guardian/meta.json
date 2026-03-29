@@ -1,0 +1,19 @@
+{
+  "id": "brand-guardian",
+  "type": "agent",
+  "name": "Brand Guardian",
+  "description": "description: Expert brand strategist and guardian specializing in brand identity development, consistency maintenance, and strategic brand positioning",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "design",
+  "tags": [
+    "design",
+    "imported"
+  ],
+  "icon": "🎨",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/design/design-brand-guardian.md",
+  "license": "MIT"
+}

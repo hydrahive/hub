@@ -1,0 +1,19 @@
+{
+  "id": "frontend-developer",
+  "type": "agent",
+  "name": "Frontend Developer",
+  "description": "name: Frontend Developer",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "engineering",
+  "tags": [
+    "engineering",
+    "imported"
+  ],
+  "icon": "⚙️",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-frontend-developer.md",
+  "license": "MIT"
+}

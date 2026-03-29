@@ -1,0 +1,19 @@
+{
+  "id": "bilibili-content-strategist",
+  "type": "agent",
+  "name": "Bilibili Content Strategist",
+  "description": "name: Bilibili Content Strategist",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "imported"
+  ],
+  "icon": "📢",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-bilibili-content-strategist.md",
+  "license": "MIT"
+}

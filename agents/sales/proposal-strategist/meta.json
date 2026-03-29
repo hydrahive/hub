@@ -1,0 +1,19 @@
+{
+  "id": "proposal-strategist",
+  "type": "agent",
+  "name": "Proposal Strategist",
+  "description": "name: Proposal Strategist",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "sales",
+  "tags": [
+    "sales",
+    "imported"
+  ],
+  "icon": "💼",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-proposal-strategist.md",
+  "license": "MIT"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "api-tester",
+  "type": "agent",
+  "name": "Api Tester",
+  "description": "description: Expert API testing specialist focused on comprehensive API validation, performance testing, and quality assurance across all systems and third-party integrations",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "testing",
+  "tags": [
+    "testing",
+    "imported"
+  ],
+  "icon": "🧪",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-api-tester.md",
+  "license": "MIT"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "studio-operations",
+  "type": "agent",
+  "name": "Studio Operations",
+  "description": "name: Studio Operations",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "management",
+  "tags": [
+    "management",
+    "imported"
+  ],
+  "icon": "📋",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/project-management/project-management-studio-operations.md",
+  "license": "MIT"
+}

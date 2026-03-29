@@ -1,0 +1,19 @@
+{
+  "id": "discovery-coach",
+  "type": "agent",
+  "name": "Discovery Coach",
+  "description": "name: Discovery Coach",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "sales",
+  "tags": [
+    "sales",
+    "imported"
+  ],
+  "icon": "💼",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-discovery-coach.md",
+  "license": "MIT"
+}

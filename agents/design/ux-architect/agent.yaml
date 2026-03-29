@@ -1,0 +1,8 @@
+agent_id: ux-architect
+display_name: Ux Architect
+model: claude-sonnet-4-6
+execution_mode: safe
+tools:
+  - read_file
+  - list_directory
+  - write_file

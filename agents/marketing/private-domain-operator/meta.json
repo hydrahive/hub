@@ -1,0 +1,19 @@
+{
+  "id": "private-domain-operator",
+  "type": "agent",
+  "name": "Private Domain Operator",
+  "description": "name: Private Domain Operator",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "imported"
+  ],
+  "icon": "📢",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-private-domain-operator.md",
+  "license": "MIT"
+}

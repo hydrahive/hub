@@ -1,0 +1,19 @@
+{
+  "id": "test-results-analyzer",
+  "type": "agent",
+  "name": "Test Results Analyzer",
+  "description": "name: Test Results Analyzer",
+  "author": "agency-agents",
+  "author_url": "https://github.com/msitarzewski/agency-agents",
+  "category": "testing",
+  "tags": [
+    "testing",
+    "imported"
+  ],
+  "icon": "🧪",
+  "version": "1.0.0",
+  "min_hydrahive_version": "1.0.0",
+  "source": "agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-test-results-analyzer.md",
+  "license": "MIT"
+}

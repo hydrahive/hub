@@ -1,0 +1,8 @@
+agent_id: weibo-strategist
+display_name: Weibo Strategist
+model: claude-sonnet-4-6
+execution_mode: safe
+tools:
+  - read_file
+  - write_file
+  - web_search
