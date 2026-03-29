@@ -1,5 +1,6 @@
 agent_id: app-store-optimizer
 display_name: App Store Optimizer
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

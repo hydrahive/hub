@@ -1,5 +1,6 @@
 agent_id: manager
 display_name: Manager
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

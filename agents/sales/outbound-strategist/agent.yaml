@@ -1,5 +1,6 @@
 agent_id: outbound-strategist
 display_name: Outbound Strategist
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

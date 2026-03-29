@@ -1,5 +1,6 @@
 agent_id: deal-strategist
 display_name: Deal Strategist
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

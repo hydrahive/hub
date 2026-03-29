@@ -1,5 +1,6 @@
 agent_id: behavioral-nudge-engine
 display_name: Behavioral Nudge Engine
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

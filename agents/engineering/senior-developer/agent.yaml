@@ -1,5 +1,6 @@
 agent_id: senior-developer
 display_name: Senior Developer
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

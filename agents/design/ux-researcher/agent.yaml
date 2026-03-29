@@ -1,5 +1,6 @@
 agent_id: ux-researcher
 display_name: Ux Researcher
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

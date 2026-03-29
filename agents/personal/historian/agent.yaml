@@ -1,5 +1,6 @@
 agent_id: historian
 display_name: Historian
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

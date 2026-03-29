@@ -1,5 +1,6 @@
 agent_id: feedback-synthesizer
 display_name: Feedback Synthesizer
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

@@ -1,5 +1,6 @@
 agent_id: xiaohongshu-specialist
 display_name: Xiaohongshu Specialist
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

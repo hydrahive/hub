@@ -1,5 +1,6 @@
 agent_id: project-shepherd
 display_name: Project Shepherd
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

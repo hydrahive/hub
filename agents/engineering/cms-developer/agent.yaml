@@ -1,5 +1,6 @@
 agent_id: cms-developer
 display_name: Cms Developer
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

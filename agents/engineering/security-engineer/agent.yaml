@@ -1,5 +1,6 @@
 agent_id: security-engineer
 display_name: Security Engineer
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

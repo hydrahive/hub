@@ -1,5 +1,6 @@
 agent_id: git-workflow-master
 display_name: Git Workflow Master
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

@@ -1,5 +1,6 @@
 agent_id: unity-architect
 display_name: Unity Architect
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

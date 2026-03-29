@@ -1,5 +1,6 @@
 agent_id: xr-cockpit-interaction-specialist
 display_name: Xr Cockpit Interaction Specialist
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

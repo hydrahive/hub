@@ -1,5 +1,6 @@
 agent_id: embedded-firmware-engineer
 display_name: Embedded Firmware Engineer
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

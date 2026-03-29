@@ -1,5 +1,6 @@
 agent_id: test-results-analyzer
 display_name: Test Results Analyzer
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

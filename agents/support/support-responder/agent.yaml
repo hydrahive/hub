@@ -1,5 +1,6 @@
 agent_id: support-responder
 display_name: Support Responder
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

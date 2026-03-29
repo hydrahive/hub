@@ -1,5 +1,6 @@
 agent_id: unity-editor-tool-developer
 display_name: Unity Editor Tool Developer
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

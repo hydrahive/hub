@@ -101,6 +101,7 @@ def agent_yaml(agent_id, display_name, category):
     tools_yaml = "\n".join(f"  - {t}" for t in tools)
     return f"""agent_id: {agent_id}
 display_name: {display_name}
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

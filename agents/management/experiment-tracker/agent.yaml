@@ -1,5 +1,6 @@
 agent_id: experiment-tracker
 display_name: Experiment Tracker
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

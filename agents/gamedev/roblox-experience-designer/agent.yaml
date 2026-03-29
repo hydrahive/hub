@@ -1,5 +1,6 @@
 agent_id: roblox-experience-designer
 display_name: Roblox Experience Designer
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

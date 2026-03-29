@@ -1,5 +1,6 @@
 agent_id: game-audio-engineer
 display_name: Game Audio Engineer
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

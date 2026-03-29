@@ -1,5 +1,6 @@
 agent_id: baidu-seo-specialist
 display_name: Baidu Seo Specialist
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

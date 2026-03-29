@@ -1,5 +1,6 @@
 agent_id: sre
 display_name: Sre
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

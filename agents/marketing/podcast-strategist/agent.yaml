@@ -1,5 +1,6 @@
 agent_id: podcast-strategist
 display_name: Podcast Strategist
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

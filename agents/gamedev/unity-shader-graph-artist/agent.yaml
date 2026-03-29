@@ -1,5 +1,6 @@
 agent_id: unity-shader-graph-artist
 display_name: Unity Shader Graph Artist
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

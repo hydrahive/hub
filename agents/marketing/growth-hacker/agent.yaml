@@ -1,5 +1,6 @@
 agent_id: growth-hacker
 display_name: Growth Hacker
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

@@ -1,5 +1,6 @@
 agent_id: unreal-technical-artist
 display_name: Unreal Technical Artist
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

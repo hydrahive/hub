@@ -1,5 +1,6 @@
 agent_id: reddit-community-builder
 display_name: Reddit Community Builder
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

@@ -1,5 +1,6 @@
 agent_id: software-architect
 display_name: Software Architect
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

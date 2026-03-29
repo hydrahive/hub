@@ -1,5 +1,6 @@
 agent_id: twitter-engager
 display_name: Twitter Engager
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

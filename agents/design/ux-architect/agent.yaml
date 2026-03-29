@@ -1,5 +1,6 @@
 agent_id: ux-architect
 display_name: Ux Architect
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

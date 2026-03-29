@@ -1,5 +1,6 @@
 agent_id: inclusive-visuals-specialist
 display_name: Inclusive Visuals Specialist
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

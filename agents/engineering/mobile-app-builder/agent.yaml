@@ -1,5 +1,6 @@
 agent_id: mobile-app-builder
 display_name: Mobile App Builder
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

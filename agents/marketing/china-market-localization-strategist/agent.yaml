@@ -1,5 +1,6 @@
 agent_id: china-market-localization-strategist
 display_name: China Market Localization Strategist
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

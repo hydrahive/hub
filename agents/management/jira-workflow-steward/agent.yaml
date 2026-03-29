@@ -1,5 +1,6 @@
 agent_id: jira-workflow-steward
 display_name: Jira Workflow Steward
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

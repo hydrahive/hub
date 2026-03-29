@@ -1,5 +1,6 @@
 agent_id: game-designer
 display_name: Game Designer
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

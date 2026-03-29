@@ -1,5 +1,6 @@
 agent_id: unreal-multiplayer-architect
 display_name: Unreal Multiplayer Architect
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

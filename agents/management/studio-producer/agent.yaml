@@ -1,5 +1,6 @@
 agent_id: studio-producer
 display_name: Studio Producer
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

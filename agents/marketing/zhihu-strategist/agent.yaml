@@ -1,5 +1,6 @@
 agent_id: zhihu-strategist
 display_name: Zhihu Strategist
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

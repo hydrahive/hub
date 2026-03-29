@@ -1,5 +1,6 @@
 agent_id: discovery-coach
 display_name: Discovery Coach
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

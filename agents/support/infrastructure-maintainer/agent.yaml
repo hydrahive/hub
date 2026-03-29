@@ -1,5 +1,6 @@
 agent_id: infrastructure-maintainer
 display_name: Infrastructure Maintainer
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

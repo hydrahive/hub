@@ -1,5 +1,6 @@
 agent_id: visionos-spatial-engineer
 display_name: Visionos Spatial Engineer
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

@@ -1,5 +1,6 @@
 agent_id: china-ecommerce-operator
 display_name: China Ecommerce Operator
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

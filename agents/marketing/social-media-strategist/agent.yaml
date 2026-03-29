@@ -1,5 +1,6 @@
 agent_id: social-media-strategist
 display_name: Social Media Strategist
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

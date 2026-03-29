@@ -1,5 +1,6 @@
 agent_id: godot-gameplay-scripter
 display_name: Godot Gameplay Scripter
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

@@ -1,5 +1,6 @@
 agent_id: autonomous-optimization-architect
 display_name: Autonomous Optimization Architect
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

@@ -1,5 +1,6 @@
 agent_id: pipeline-analyst
 display_name: Pipeline Analyst
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:

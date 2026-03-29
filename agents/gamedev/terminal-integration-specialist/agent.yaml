@@ -1,5 +1,6 @@
 agent_id: terminal-integration-specialist
 display_name: Terminal Integration Specialist
+type: specialist
 model: claude-sonnet-4-6
 execution_mode: safe
 tools:
