@@ -1,7 +1,7 @@
 {
   "version": "1",
   "updated": "2026-03-29T13:49:15Z",
-  "count": 127,
+  "count": 128,
   "packages": [
     {
       "id": "brand-guardian",
@@ -2542,6 +2542,28 @@
       "source_url": "https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-workflow-optimizer.md",
       "license": "MIT",
       "_path": "agents/testing/workflow-optimizer"
+    },
+    {
+      "id": "system-info",
+      "type": "plugin",
+      "name": "System Info",
+      "description": "System-Monitoring Tools: CPU, RAM, Disk, Uptime, Top-Prozesse. Deterministische Daten ohne LLM-Tokens.",
+      "author": "HydraHive",
+      "author_url": "https://github.com/hydrahive",
+      "category": "devops",
+      "tags": [
+        "system",
+        "monitoring",
+        "cpu",
+        "ram",
+        "disk",
+        "processes"
+      ],
+      "icon": "🖥️",
+      "version": "1.0.0",
+      "source": "hydrahive",
+      "license": "MIT",
+      "_path": "plugins/devops/system-info"
     }
   ]
 }
