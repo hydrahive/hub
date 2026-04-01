@@ -1,7 +1,7 @@
 {
   "version": "1",
   "updated": "2026-03-29T13:49:15Z",
-  "count": 130,
+  "count": 133,
   "packages": [
     {
       "id": "brand-guardian",
@@ -2607,6 +2607,65 @@
       "source": "hydrahive",
       "license": "MIT",
       "_path": "plugins/devops/git-extended"
+    },
+    {
+      "id": "auto-updater",
+      "type": "plugin",
+      "name": "Auto Updater",
+      "description": "Prüft GitHub auf neue Versionen, zeigt Changelog, Update per Agent-Befehl.",
+      "author": "HydraHive",
+      "category": "devops",
+      "tags": [
+        "update",
+        "github",
+        "version"
+      ],
+      "icon": "🔄",
+      "version": "1.0.0",
+      "_path": "plugins/devops/auto-updater",
+      "author_url": "https://github.com/hydrahive",
+      "source": "hydrahive",
+      "license": "MIT"
+    },
+    {
+      "id": "csv-tools",
+      "type": "plugin",
+      "name": "CSV Tools",
+      "description": "CSV/JSON laden, filtern, aggregieren, konvertieren — deterministisch ohne LLM-Tokens.",
+      "author": "HydraHive",
+      "category": "engineering",
+      "tags": [
+        "csv",
+        "json",
+        "data",
+        "filter"
+      ],
+      "icon": "📊",
+      "version": "1.0.0",
+      "_path": "plugins/engineering/csv-tools",
+      "author_url": "https://github.com/hydrahive",
+      "source": "hydrahive",
+      "license": "MIT"
+    },
+    {
+      "id": "pdf-reader",
+      "type": "plugin",
+      "name": "PDF Reader",
+      "description": "PDF-Dateien lesen, Text extrahieren, durchsuchen — ohne LLM-Tokens.",
+      "author": "HydraHive",
+      "category": "engineering",
+      "tags": [
+        "pdf",
+        "text",
+        "extract",
+        "search"
+      ],
+      "icon": "📄",
+      "version": "1.0.0",
+      "_path": "plugins/engineering/pdf-reader",
+      "author_url": "https://github.com/hydrahive",
+      "source": "hydrahive",
+      "license": "MIT"
     }
   ]
 }
