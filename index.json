@@ -1,7 +1,7 @@
 {
   "version": "1",
   "updated": "2026-03-29T13:49:15Z",
-  "count": 128,
+  "count": 129,
   "packages": [
     {
       "id": "brand-guardian",
@@ -2564,6 +2564,27 @@
       "source": "hydrahive",
       "license": "MIT",
       "_path": "plugins/devops/system-info"
+    },
+    {
+      "id": "docker-manager",
+      "type": "plugin",
+      "name": "Docker Manager",
+      "description": "Docker Container verwalten — listen, starten, stoppen, Logs lesen, Stats, Images. Funktioniert mit Docker und Podman.",
+      "author": "HydraHive",
+      "author_url": "https://github.com/hydrahive",
+      "category": "devops",
+      "tags": [
+        "docker",
+        "container",
+        "podman",
+        "devops",
+        "logs"
+      ],
+      "icon": "🐳",
+      "version": "1.0.0",
+      "source": "hydrahive",
+      "license": "MIT",
+      "_path": "plugins/devops/docker-manager"
     }
   ]
 }
