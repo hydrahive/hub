@@ -1,7 +1,7 @@
 {
   "version": "1",
   "updated": "2026-03-29T13:49:15Z",
-  "count": 133,
+  "count": 143,
   "packages": [
     {
       "id": "brand-guardian",
@@ -2666,6 +2666,186 @@
       "author_url": "https://github.com/hydrahive",
       "source": "hydrahive",
       "license": "MIT"
+    },
+    {
+      "id": "health-monitor",
+      "type": "plugin",
+      "name": "Health Monitor",
+      "description": "System-Überwachung mit Schwellwerten",
+      "author": "HydraHive",
+      "author_url": "https://github.com/hydrahive",
+      "category": "devops",
+      "tags": [
+        "monitoring",
+        "health"
+      ],
+      "icon": "🏥",
+      "version": "1.0.0",
+      "source": "hydrahive",
+      "license": "MIT",
+      "_path": "plugins/devops/health-monitor"
+    },
+    {
+      "id": "log-analyzer",
+      "type": "plugin",
+      "name": "Log Analyzer",
+      "description": "Journalctl parsen, Fehler-Patterns erkennen",
+      "author": "HydraHive",
+      "author_url": "https://github.com/hydrahive",
+      "category": "devops",
+      "tags": [
+        "logs",
+        "errors"
+      ],
+      "icon": "📋",
+      "version": "1.0.0",
+      "source": "hydrahive",
+      "license": "MIT",
+      "_path": "plugins/devops/log-analyzer"
+    },
+    {
+      "id": "backup-validator",
+      "type": "plugin",
+      "name": "Backup Validator",
+      "description": "Backup-Integrität prüfen",
+      "author": "HydraHive",
+      "author_url": "https://github.com/hydrahive",
+      "category": "devops",
+      "tags": [
+        "backup",
+        "validate"
+      ],
+      "icon": "🛡️",
+      "version": "1.0.0",
+      "source": "hydrahive",
+      "license": "MIT",
+      "_path": "plugins/devops/backup-validator"
+    },
+    {
+      "id": "ssl-cert-checker",
+      "type": "plugin",
+      "name": "SSL Cert Checker",
+      "description": "SSL-Zertifikate prüfen, vor Ablauf warnen",
+      "author": "HydraHive",
+      "author_url": "https://github.com/hydrahive",
+      "category": "devops",
+      "tags": [
+        "ssl",
+        "cert"
+      ],
+      "icon": "🔒",
+      "version": "1.0.0",
+      "source": "hydrahive",
+      "license": "MIT",
+      "_path": "plugins/devops/ssl-cert-checker"
+    },
+    {
+      "id": "code-linter",
+      "type": "plugin",
+      "name": "Code Linter",
+      "description": "Python/JS Linting (ruff, eslint)",
+      "author": "HydraHive",
+      "author_url": "https://github.com/hydrahive",
+      "category": "engineering",
+      "tags": [
+        "lint",
+        "ruff"
+      ],
+      "icon": "🔍",
+      "version": "1.0.0",
+      "source": "hydrahive",
+      "license": "MIT",
+      "_path": "plugins/engineering/code-linter"
+    },
+    {
+      "id": "test-runner",
+      "type": "plugin",
+      "name": "Test Runner",
+      "description": "pytest/npm test als Agent-Tool",
+      "author": "HydraHive",
+      "author_url": "https://github.com/hydrahive",
+      "category": "engineering",
+      "tags": [
+        "test",
+        "pytest"
+      ],
+      "icon": "🧪",
+      "version": "1.0.0",
+      "source": "hydrahive",
+      "license": "MIT",
+      "_path": "plugins/engineering/test-runner"
+    },
+    {
+      "id": "dependency-checker",
+      "type": "plugin",
+      "name": "Dependency Checker",
+      "description": "Veraltete Pakete + Security-Audit",
+      "author": "HydraHive",
+      "author_url": "https://github.com/hydrahive",
+      "category": "engineering",
+      "tags": [
+        "deps",
+        "security"
+      ],
+      "icon": "📦",
+      "version": "1.0.0",
+      "source": "hydrahive",
+      "license": "MIT",
+      "_path": "plugins/engineering/dependency-checker"
+    },
+    {
+      "id": "webhook-sender",
+      "type": "plugin",
+      "name": "Webhook Sender",
+      "description": "HTTP Webhooks — Discord, Slack, beliebige URLs",
+      "author": "HydraHive",
+      "author_url": "https://github.com/hydrahive",
+      "category": "engineering",
+      "tags": [
+        "webhook",
+        "discord"
+      ],
+      "icon": "📡",
+      "version": "1.0.0",
+      "source": "hydrahive",
+      "license": "MIT",
+      "_path": "plugins/engineering/webhook-sender"
+    },
+    {
+      "id": "agent-analytics",
+      "type": "plugin",
+      "name": "Agent Analytics",
+      "description": "Token-Verbrauch, Trends, Kosten",
+      "author": "HydraHive",
+      "author_url": "https://github.com/hydrahive",
+      "category": "engineering",
+      "tags": [
+        "analytics",
+        "tokens"
+      ],
+      "icon": "📈",
+      "version": "1.0.0",
+      "source": "hydrahive",
+      "license": "MIT",
+      "_path": "plugins/engineering/agent-analytics"
+    },
+    {
+      "id": "conversation-export",
+      "type": "plugin",
+      "name": "Conversation Export",
+      "description": "Chats als Markdown exportieren",
+      "author": "HydraHive",
+      "author_url": "https://github.com/hydrahive",
+      "category": "engineering",
+      "tags": [
+        "export",
+        "chat"
+      ],
+      "icon": "💬",
+      "version": "1.0.0",
+      "source": "hydrahive",
+      "license": "MIT",
+      "_path": "plugins/engineering/conversation-export"
     }
   ]
 }
